@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+CACHE:
+../assets/images/banner.jpg
+../assets/images/high-vol.jpg
+../assets/images/img_0563.jpg
+/assets/images/sam_2771.jpg
+/assets/images/sam_3229.jpg
+/assets/images/transport/IMG_0146.jpg
+/assets/images/transport/IMG_0147.jpg
+
+/assets/images/transport/IMG_0563.jpg
+/assets/images/transport/IMG_0564.jpg
+/assets/images/transport/IMG_2016.jpe
+/assets/partials/order.html
+/assets/partials/home.html
+/assets/partials/hotel.html
+/assets/partials/log.html
+/assets/partials/take.html
+/assets/partials/transport.html
+/assets/partials/export.html
+
+
+NETWORK:
+*
